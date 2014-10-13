@@ -53,7 +53,7 @@
           <li class="uk-parent" data-uk-dropdown> <a href="about-us.html">About Us</a>
             <div class="uk-dropdown uk-dropdown-navbar">
               <ul class="uk-nav uk-nav-navbar">
-                <li><a href="exec.html">Exec Bios</a></li>
+                <li><a href="about-us.html#exec">Exec Bios</a></li>
               </ul>
             </div>
           </li>
