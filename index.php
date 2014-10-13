@@ -43,11 +43,11 @@
 
 <header>
   <div class="uk-container uk-padding-remove">
-    <nav class="uk-navbar"> <a href="index.html" class="uk-navbar-brand uk-visible-large"> <img src="images/rsz_logo.jpg" alt="Company Name"/> </a> 
+    <nav class="uk-navbar"> <a href="index.php" class="uk-navbar-brand uk-visible-large"> <img src="images/rsz_logo.jpg" alt="Company Name"/> </a> 
       <!-- / end logo -->
       <div class="uk-navbar-flip">
         <ul class="uk-navbar-nav uk-visible-large">
-          <li class="uk-active uk-parent" data-uk-dropdown> <a href="index.html">Home</a>
+          <li class="uk-active uk-parent" data-uk-dropdown> <a href="index.php">Home</a>
            
           </li>
           <li class="uk-parent" data-uk-dropdown> <a href="about-us.html">About Us</a>
@@ -98,7 +98,7 @@
 	CAROUSEL
 ===================================== -->
 <div class="uk-container uk-container-heading uk-text-center">
-  <h2 class="section-title-index">Northwestern University's leading voice for global human rights on campus </h2>
+  <h2 class="section-title-">Northwestern University's leading voice for global human rights on campus </h2>
 </div>
 <!-- / end section heading -->
 
