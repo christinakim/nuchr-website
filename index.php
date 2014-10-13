@@ -111,7 +111,7 @@
 
 <div class="uk-container uk-container-heading">
   <div class="uk-text-center">
-    <p class="lead"> Apply now to become a delegate at NUCHR's 11th annual Conference: <br> <strong>Human Rights in the Digital Age</strong></p>
+    <p class="lead"> Apply now to become a delegate at NUCHR's 11th annual conference: <br> <strong>Human Rights in the Digital Age</strong><br>January 15th-18th 2015</p>
     <a href="apply.html"> <button class="btn btn-black " ></i> APPLY NOW</button> </a>
   </div>
 </div>
