@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="keywords" content="">
 <meta name="description" content="">
-<meta name="author" content="">
+<meta name="author" content="Christina Kim">
 
 <!-- GOOGLE FONTS -->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:800,700,400,300' rel='stylesheet' type='text/css'>
@@ -43,11 +43,11 @@
 
 <header>
   <div class="uk-container uk-padding-remove">
-    <nav class="uk-navbar"> <a href="index.php" class="uk-navbar-brand uk-visible-large"> <img src="images/rsz_logo.jpg" alt="Company Name"/> </a> 
+    <nav class="uk-navbar"> <a href="/" class="uk-navbar-brand uk-visible-large"> <img src="images/rsz_logo.jpg" alt="Company Name"/> </a> 
       <!-- / end logo -->
       <div class="uk-navbar-flip">
         <ul class="uk-navbar-nav uk-visible-large">
-          <li class="uk-active uk-parent" data-uk-dropdown> <a href="index.php">Home</a>
+          <li class="uk-active uk-parent" data-uk-dropdown> <a href="/">Home</a>
            
           </li>
           <li class="uk-parent" data-uk-dropdown> <a href="about-us.html">About Us</a>
@@ -60,14 +60,21 @@
           <li class="uk-parent" data-uk-dropdown> <a href="conference.html">Conference</a>
             <div class="uk-dropdown uk-dropdown-navbar">
               <ul class="uk-nav uk-nav-navbar">
-                <li><a href="current.html">This Year's</a></li>
-                <li><a href="past.html">This Year's Conference</a></li>
-                <li><a href="delegates.html">Delegates</a></li>
+                <li><a href="conference.html#current">This Year's Conference</a></li>
+                <li><a href="conferences.html#delegates">Delegates</a></li>
+                <li><a href="past.html">Past Conferences</a></li>
+
               </ul>
             </div>
           </li>
           <li class="uk-parent" data-uk-dropdown> <a href="events.html">Events</a>
+  <div class="uk-dropdown uk-dropdown-navbar">
+              <ul class="uk-nav uk-nav-navbar">
+                <li><a href="calendar.html">NUCHR Calendar</a></li>
+              
 
+              </ul>
+            </div>
           </li>
           <li class="uk-parent" data-uk-dropdown> <a href="contact.html">Get Involved</a>
 
